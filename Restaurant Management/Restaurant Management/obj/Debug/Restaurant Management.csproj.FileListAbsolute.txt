@@ -1,0 +1,14 @@
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe.config
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.pdb
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\bin\Debug\Guna.UI2.dll
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.AssemblyReference.cache
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.LoginForm.resources
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.GenerateResource.cache
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CoreCompileInputs.cache
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaura.6CC98F1E.Up2Date
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.exe
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.pdb
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.mainForm.resources
+C:\Users\soria\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.homeForm.resources
